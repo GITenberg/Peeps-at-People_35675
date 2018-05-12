@@ -1,0 +1,42 @@
+_repo: Peeps-at-People_35675
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Duncan, Walter Jack
+    birthdate: 1881
+    deathdate: 1941
+    gutenberg_agent_id: '37824'
+    url: http://www.gutenberg.org/2009/agents/37824
+covers:
+- cover_type: archival
+  image_path: 35675-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: Even so! Or, as you may say, a preface -- The forgetful tailor --
+  Talk at the post office -- As to office boys -- A conqueror's attack -- The case
+  of Mr. Woolen -- When the train comes in -- An old fogy -- Hair that is scenery
+  -- A nice man -- No snob -- Every inch a man -- His business is good -- A nice taste
+  in murders -- Ida's amazing surprise -- Not gullible, not he -- Cramis, patron of
+  art -- Barber shops awesome -- Much married Stratford -- A human cash register --
+  It stands to reason -- A three-ringed circus -- Snapshots in X-ray -- Bachelor reminiscences
+  -- A testimonial -- Fragrant with perfume -- Wouldn't look at him -- Connubial felicity
+  -- A friend, indeed.
+title: Peeps at People
+url: http://www.gutenberg.org/ebooks/35675
