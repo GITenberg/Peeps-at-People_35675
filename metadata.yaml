@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '5191'
     url: http://www.gutenberg.org/2009/agents/5191
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35675#Peeps-at-People
 gutenberg_issued: '2011-03-24'
 gutenberg_type: Text
 identifiers:
